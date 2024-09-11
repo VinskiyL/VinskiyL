@@ -20,7 +20,15 @@
 .nav__item {
     display: inline-block;
 }
-.news-section__nav a {
+.nav a {
+    color: #5e4873;
+    text-decoration: none;
+    background-color: #fa97a3;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 4px;
+}
+.{
     color: #5e4873;
     text-decoration: none;
     background-color: #fa97a3;
