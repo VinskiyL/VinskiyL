@@ -8,6 +8,7 @@
 }
 .header__nav {
     color: #5e4873;
+    font-family: sans-serif;
 }
 .nav__sod {
     list-style: none;
@@ -17,6 +18,7 @@
     padding: 10px;
     border-radius: 4px;
     color: #5e4873;
+    font-family: sans-serif;
 }
 .nav__item {
     display: inline-block;
@@ -28,15 +30,18 @@
     padding: 10px;
     margin: 5px;
     border-radius: 4px;
+    font-family: sans-serif;
 }
 .port-section__nav a{
     color: #5e4873;
     text-decoration: none;
+    font-family: sans-serif;
 }
 .footer {
     background-image: url(https://avatars.mds.yandex.net/i?id=c7165495967ce70be2d6bbdd89e1e8a5_l-5245755-images-thumbs&n=13);
     color: #5e4873;
     text-decoration: none;
+    font-family: sans-serif;
 }
 .footer-nav__item {
     list-style-type: none;
@@ -44,6 +49,7 @@
 .footer a {
     color: #5e4873;
     text-decoration: none;
+    font-family: sans-serif;
 }
 .port-section {
      width: 500px;
