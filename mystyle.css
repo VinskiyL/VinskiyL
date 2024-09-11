@@ -18,20 +18,49 @@
     color: #5e4873;
 }
 .nav__item {
- display: inline-block;
+    display: inline-block;
 }
 .nav a {
- color: #5e4873;
- text-decoration: none;
- background-color: #fa97a3;
- padding: 10px;
- margin: 5px;
- border-radius: 4px;
+    color: #5e4873;
+    text-decoration: none;
+    background-color: #fa97a3;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 4px;
 }
 .footer {
- background-image: url(https://www.ru-divan.ru/uploads/media/tissue/0001/91/a31f3761b7f7eb925a5cfce7e3f797dc2abbcf36.jpeg);
+    background-image: url(https://www.ru-divan.ru/uploads/media/tissue/0001/91/a31f3761b7f7eb925a5cfce7e3f797dc2abbcf36.jpeg);
+    color: #5e4873;
+    text-decoration: none;
+}
+.footer-nav__item {
+    list-style-type: none;
+}
+.footer a {
+    color: #5e4873;
+    text-decoration: none;
+}
+.port-section {
+     width: 500px;
+     margin: 30px;
+     border-radius: 7px;
+}
+.news-section--one {
+    background-color: #fa97a3;
+}
+.news-section--two {
+    background-color: #a9d1f3;
+}
+.news-section--three {
+    background-color: #f0c890;
+}
+.main {
+    overflow: hidden;
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+}
+.port-section__nav {
  color: #5e4873;
  text-decoration: none;
 }
-
-
