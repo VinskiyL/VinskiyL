@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Портфолио</title>
+</head>
+<body>
+  <header class="header">
+    <a href="/" class="header__logo"><h1 align="center">Портфолио</h1></a>
+    <nav id="navigator" class="nav">
+      <details>
+       <summary class="nav__sod">Содержание</summary>
+         <ul class="nav__menu">
+           <li class="nav__item"><a href="#one">Биография</a></li>
+           <li class="nav__item"><a href="#two">Увлечения</a></li>
+           <li class="nav__item"><a href="#three">Проекты</a></li>
+        </ul>
+      </details>
+    </nav>
+  </header>
+  <div class="content">
+    <main class="main">
+      <section class="port-section port-section--one" id="one">
+        <h2>Биография</h2>
+        <article class="port-item">
+          <p>Имя: Екатерина</p>
+        </article>
+        <article class="port-item">
+          <p>Фамилия: Чарушина</p>
+        </article>
+        <article class="port-item">
+          <p>Отчество: Витальевна</p>
+        </article>
+        <article class="port-item">
+          <p>День рождения: 10.02.2004г</p>
+        </article>
+        <article class="port-item">
+          <p>Место учёбы: МИВЛГУ</p>
+        </article>
+        <article class="port-item">
+          <p>Родственники: Оба родителя, младший брат и дед</p>
+        </article>
+      </section>
+    </main>
+  </div>
+</body>
