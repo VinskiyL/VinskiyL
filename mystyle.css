@@ -1,5 +1,5 @@
 .header {
-    background-image: url(https://www.ru-divan.ru/uploads/media/tissue/0001/91/a31f3761b7f7eb925a5cfce7e3f797dc2abbcf36.jpeg);
+    background-image: url(https://avatars.mds.yandex.net/i?id=c7165495967ce70be2d6bbdd89e1e8a5_l-5245755-images-thumbs&n=13);
 }
 .header__logo {
     color: #5e4873;
@@ -29,7 +29,7 @@
     border-radius: 4px;
 }
 .footer {
-    background-image: url(https://www.ru-divan.ru/uploads/media/tissue/0001/91/a31f3761b7f7eb925a5cfce7e3f797dc2abbcf36.jpeg);
+    background-image: url(https://avatars.mds.yandex.net/i?id=c7165495967ce70be2d6bbdd89e1e8a5_l-5245755-images-thumbs&n=13);
     color: #5e4873;
     text-decoration: none;
 }
@@ -61,6 +61,6 @@
     flex-wrap: wrap;
 }
 .port-section__nav {
- color: #5e4873;
- text-decoration: none;
+    color: #5e4873;
+    text-decoration: none;
 }
