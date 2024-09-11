@@ -20,7 +20,7 @@
 .nav__item {
     display: inline-block;
 }
-.nav a {
+.news-section__nav a {
     color: #5e4873;
     text-decoration: none;
     background-color: #fa97a3;
