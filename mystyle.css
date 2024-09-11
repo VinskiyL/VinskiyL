@@ -2,7 +2,8 @@
     background-image: url(https://avatars.mds.yandex.net/i?id=c7165495967ce70be2d6bbdd89e1e8a5_l-5245755-images-thumbs&n=13);
 }
 .header__logo {
-    color: #fff;
+    color: #7ebffc;
+    font-family: sans-serif;
     text-decoration: none;
 }
 .header__nav {
@@ -69,8 +70,8 @@
     text-decoration: none;
 }
 .port-section p{
-    color: #fff;
+    font-family: sans-serif;
 }
 .port-section h2{
-    color: #fff;
+    font-family: sans-serif;
 }
