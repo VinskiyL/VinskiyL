@@ -83,6 +83,6 @@
 .footer p{
     color: #808080;
 }
-details[open] {
+.details[open] {
     padding-bottom: 1em;
 }  
