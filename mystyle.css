@@ -83,3 +83,10 @@
 .footer p{
     color: #808080;
 }
+.port-section--three img{
+    display:block;
+    margin:auto;
+}
+.port-section--three figcaption{
+    font-family: sans-serif;
+}
