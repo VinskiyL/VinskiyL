@@ -69,6 +69,8 @@
     display: flex;
     flex-flow: row;
     flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
 }
 .port-section__nav {
     color: #5e4873;
